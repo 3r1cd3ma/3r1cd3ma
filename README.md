@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/3r1cd3ma.svg?style=social&label=Follow)](https://github.com/3r1cd3ma?tab=followers)
 
 
-I’m Eric De Maria (*aka 3r1cd3ma*), a 25 entrepreneur from Lyon, France 🇫🇷.
+I’m Eric De Maria (*aka 3r1cd3ma*), a 25 year old entrepreneur from Lyon, France 🇫🇷.
 - *Currently :* Funder & CEO of [@numio](https://numio.eu). 
 - *Previously :* IT Manager at 2LB Conseils.
 - *Degree :* Bachelor of Science in IT Developement at Valence University of Technology .
