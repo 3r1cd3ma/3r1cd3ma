@@ -1,20 +1,26 @@
 # Hey, I'm [Eric De Maria !](https://www.linkedin.com/in/edemaria) 👋
 
-
-[![GitHub followers](https://img.shields.io/github/followers/3r1cd3ma.svg?style=social&label=Follow)](https://github.com/3r1cd3ma?tab=followers)
-
+[![LinkedIn @edemaria](https://img.shields.io/badge/LinkedIn%20@edemaria-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edemaria)
+[![Medium @e.demaria](https://img.shields.io/badge/Medium%20@e.demaria-000000?style=flat-square&logo=medium&logoColor=white)](https://www.medium.com/@e.demaria)
+[![Twitter @3ric_dmr](https://img.shields.io/badge/Twitter%20@3ric_dmr-1d9bf0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/3ric_dmr)
+[![GitHub followers](https://img.shields.io/github/followers/3r1cd3ma?label=follow&logo=Github&style=flat-square)](https://github.com/3r1cd3ma?tab=followers)
+[![GitHub starts](https://img.shields.io/github/stars/3r1cd3ma?logo=github&style=flat-square)](ttps://github.com/3r1cd3ma?tab=stars)
 
 I’m Eric De Maria (*aka 3r1cd3ma*), a 25 year old entrepreneur from Lyon, France 🇫🇷.
 - *Currently :* Funder & CEO of [@numio](https://numio.eu). 
 - *Previously :* IT Manager at 2LB Conseils.
 - *Degree :* Bachelor of Science in IT Developement at Valence University of Technology .
 
-#### 🔭 Working on my start-up [numio](https://numio.eu)
+### 🔭 Working on my start-up [numio](https://numio.eu)
 The revolutionary solution that improves the daily life of consumers and local stores.
 
-#### 🌱 Learning entrepreneurship, sales and communications
+### 🌱 Learning entrepreneurship, sales and communications
 Created a start-up is not an easy task and there is necessary to acquired many entrepreneurships skills.
 Dev a digital product is easy for my, but sale and communicate on this is an another story ^^.
 
-#### 📫 How to reach me ...
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edemaria)
+### 🛠 Tech Stack
+ - </> Python | Ruby | PHP | Windev | HTML | CSS | JavaScript | TypeScript
+ - ⚙️  Django | Scrapy | Ruby on Rails | Symphony | NodeJS |
+ - 🛢  PostgreSQL | MySQL | SQLite
+ - 🔧  Visual Studio code | Git | Docker
+ - 🖥  Illustrator | OpenShot
